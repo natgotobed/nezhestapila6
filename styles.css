@@ -1,0 +1,129 @@
+/*******************************TAGS***********************/
+body {
+  margin: 0;
+  text-align: center;
+  background-color: #FFB0CD;
+  line-height: 1.5;
+}
+
+h1 {
+  background-color: white;
+  width: 21%;
+  margin: 50px auto 0 auto;
+  font-size: 5.625rem;
+  font-family: 'Dawning of a New Day', cursive;
+  color: #66BFBF;
+}
+
+h2 {
+  font-family: 'Courier Prime', monospace;
+
+  margin: 50px auto 0 auto;
+
+  font-size: 2.5rem;
+  color: #66BFBF;
+  font-weight: normal;
+  margin-top: 50px;
+}
+
+h3 {
+  color: #11999E;
+  font-family: 'Courier Prime', monospace;
+}
+
+h6 {
+  font-family: 'Courier Prime', monospace;
+  color: #11999E;
+}
+
+p {
+  font-family: 'Courier Prime', monospace;
+  color: #FFFFFF;
+}
+
+/***********CLASS********/
+.top-container {
+  position: relative;
+  padding-top: 100px;
+}
+
+.middle-container {
+  ;
+}
+
+.bottom-container {
+  margin-top: 50px;
+}
+
+.sun {
+  width: 25%;
+  position: absolute;
+  right: 50px;
+  top: 50px;
+}
+
+.bee {
+  width: 20%;
+  position: absolute;
+  left: 150px;
+  bottom: 150px;
+}
+
+.footer-link {
+  font-family: 'Courier Prime', monospace;
+  color: #11999E;
+  line-height: 1.5;
+}
+
+.btn {
+  font-family: 'Press Start 2P', cursive;
+  color: #11999E;
+  line-height: 1.5;
+
+}
+
+.NS {
+  font-family: 'Dawning of a New Day', cursive;
+  font-size: 2rem;
+  line-height: 1.5;
+}
+
+.doh {
+  color: #11999E;
+}
+
+.sparkles {
+  margin-top: 50px;
+  margin-bottom: auto;
+  width: 8%;
+}
+
+.skill-row {
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 100px;
+  margin-bottom: 100px;
+  text-align: left;
+  line-height: 1.5;
+}
+
+.cow {
+  width: 30%;
+  float: left;
+  margin-right: 35px;
+}
+
+.vibe {
+  width: 15%;
+  float: right;
+  margin-left: 30px;
+}
+
+.piano {
+  width: 15%;
+}
+
+.sponsor {
+  color: #11999E;
+}
